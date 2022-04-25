@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @alexandermela
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alexandermela/alexandermela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Alexander Mela</h1>
+<P>follow me on socials<br>
+<a href="https://t.me/H62hFn3kW11H3f5f21N5"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
+<a href="https://www.facebook.com/H62hFn3kW11H3f5f21N5" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25">
